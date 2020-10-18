@@ -3,7 +3,36 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Leg
+  - SnapCube
+  - Arm
+  - SnapCylinder
+  - Saucers
+  - ExcludeTeleport
+  - Torso
+  - Head
+  - RAM
+  - RAMKey1
+  - motherboard
+  - detail
+  - arm
+  - DDR1 RAM
+  - CPU Pentium 4
+  - GPU
+  - RadiatorNotValid
+  - RadiatorValid
+  - ThermalGrease
+  - SATA
+  - PowerSupply
+  - CPU Fan
+  - CPU_i7-10700
+  - CPU_i7-3770
+  - CPU_XEON
+  - DDR4 RAM
+  - DDR3 RAM
+  - DDR2 RAM
+  - Radiator
   layers:
   - Default
   - TransparentFX
